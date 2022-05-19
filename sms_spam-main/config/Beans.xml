@@ -14,7 +14,7 @@
 		scope="prototype">
 		<property name="redis_host" value="localhost" />
 		<property name="redis_port" value="6379" />
-		<property name="redis_pass" value="imeDiaReDS@)" />
+		<property name="redis_pass" value="" />
 		<property name="redis_db" value="0" />
 		<property name="tele_user_queue" value="tele_user_queue" />
 		<property name="tele_group_queue" value="tele_group_queue" />
