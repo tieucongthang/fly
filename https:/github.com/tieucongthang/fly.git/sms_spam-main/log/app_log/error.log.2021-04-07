@@ -1,0 +1,7 @@
+07-04-21 10:44:27,564 76 6664 [main] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:257)
+	at group.fly.entities.TestServiceHandle.reDownloadRequest(TestServiceHandle.java:374)
+	at group.fly.entities.TestServiceHandle.main(TestServiceHandle.java:117)

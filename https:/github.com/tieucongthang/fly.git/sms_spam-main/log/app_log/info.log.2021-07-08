@@ -1,0 +1,15 @@
+08-07-21 10:38:40,623 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/"><Body><signInAsPartner xmlns="http://interfaces.itopup.vnptepay.vn"><username>GOJEK_API</username><password>44579130607852</password></signInAsPartner></Body></Envelope>
+08-07-21 10:38:40,626 28 3    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:signInAsPartnerResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><signInAsPartnerReturn href="#id0"/></ns1:signInAsPartnerResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:SignInResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><errorCode xsi:type="xsd:int">0</errorCode><errorMessage xsi:type="xsd:string">Signin successfully</errorMessage><token xsi:type="xsd:string">2d9feacffd741e8ae233879597b74c3bcb6d22ca787dc23e</token></multiRef></soapenv:Body></soapenv:Envelope>
+08-07-21 10:39:18,176 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVTT</providerCode>
+            <targetAccount>0965044029</targetAccount>
+            <amount>50000</amount>
+            <requestID>GOJEK_API_1625715557276</requestID>
+            <token>2d9feacffd741e8ae233879597b74c3bcb6d22ca787dc23e</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+08-07-21 10:39:18,179 28 3    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23007598</epayTransID><errorCode xsi:type="xsd:int">-7</errorCode><errorMessage xsi:type="xsd:string">Telco system busy.</errorMessage><merchantBalance xsi:type="xsd:long">107200</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>

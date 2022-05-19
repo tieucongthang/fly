@@ -1,0 +1,59 @@
+{
+  "RECORDS": [
+    {
+      "extra_fee_id": "10",
+      "extra_fee_name": "",
+      "extra_fee_code": "LS2021",
+      "created_by": "",
+      "fix_fee_amount": "0",
+      "fix_fee_percent": "0.18",
+      "created_date": "19/5/2021 03:58:56",
+      "fee_type": "1",
+      "pay_type": "0"
+    },
+    {
+      "extra_fee_id": "11",
+      "extra_fee_name": "",
+      "extra_fee_code": "PTV",
+      "created_by": "",
+      "fix_fee_amount": "0",
+      "fix_fee_percent": "0.3",
+      "created_date": "22/5/2021 10:10:08",
+      "fee_type": "2",
+      "pay_type": "0"
+    },
+    {
+      "extra_fee_id": "12",
+      "extra_fee_name": "",
+      "extra_fee_code": "PDV",
+      "created_by": "",
+      "fix_fee_amount": "0",
+      "fix_fee_percent": "0.3",
+      "created_date": "22/5/2021 10:11:04",
+      "fee_type": "3",
+      "pay_type": "0"
+    },
+    {
+      "extra_fee_id": "13",
+      "extra_fee_name": "",
+      "extra_fee_code": "TTTH",
+      "created_by": "",
+      "fix_fee_amount": "0",
+      "fix_fee_percent": "0.06",
+      "created_date": "22/5/2021 10:11:58",
+      "fee_type": "5",
+      "pay_type": "0"
+    },
+    {
+      "extra_fee_id": "14",
+      "extra_fee_name": "",
+      "extra_fee_code": "TNQH",
+      "created_by": "",
+      "fix_fee_amount": "400000",
+      "fix_fee_percent": "0",
+      "created_date": "22/5/2021 10:13:34",
+      "fee_type": "4",
+      "pay_type": "0"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "RECORDS": [
+    {
+      "rate_id": "4",
+      "rate_name": "Rất tốt",
+      "rate_code": "STTEXCEL",
+      "rate_type": "1",
+      "rate_value": "1",
+      "active_status": "1"
+    },
+    {
+      "rate_id": "5",
+      "rate_name": "Tốt",
+      "rate_code": "STTGOOD",
+      "rate_type": "1",
+      "rate_value": "0.9",
+      "active_status": "1"
+    },
+    {
+      "rate_id": "6",
+      "rate_name": "Bình thường",
+      "rate_code": "STTNORM",
+      "rate_type": "1",
+      "rate_value": "0.8",
+      "active_status": "1"
+    },
+    {
+      "rate_id": "7",
+      "rate_name": "Xấu",
+      "rate_code": "STTBAD",
+      "rate_type": "1",
+      "rate_value": "0.7",
+      "active_status": "1"
+    },
+    {
+      "rate_id": "8",
+      "rate_name": "&lt;3,000 Km",
+      "rate_code": "ODDO01",
+      "rate_type": "3",
+      "rate_value": "1",
+      "active_status": "1"
+    },
+    {
+      "rate_id": "9",
+      "rate_name": "3,000-10,000 Km",
+      "rate_code": "ODDO02",
+      "rate_type": "3",
+      "rate_value": "0.9",
+      "active_status": "1"
+    },
+    {
+      "rate_id": "10",
+      "rate_name": "10,000-30,000 Km",
+      "rate_code": "ODDO03",
+      "rate_type": "3",
+      "rate_value": "0.8",
+      "active_status": "1"
+    },
+    {
+      "rate_id": "11",
+      "rate_name": "> 30,000 Km",
+      "rate_code": "ODDO04",
+      "rate_type": "3",
+      "rate_value": "0.7",
+      "active_status": "1"
+    },
+    {
+      "rate_id": "12",
+      "rate_name": "Chính củ",
+      "rate_code": "OWNED1",
+      "rate_type": "2",
+      "rate_value": "1",
+      "active_status": "1"
+    },
+    {
+      "rate_id": "13",
+      "rate_name": "Không chính chủ",
+      "rate_code": "OWNED2",
+      "rate_type": "2",
+      "rate_value": "0.7",
+      "active_status": "1"
+    }
+  ]
+}

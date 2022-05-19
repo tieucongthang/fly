@@ -1,0 +1,12 @@
+{
+  "RECORDS": [
+    {
+      "insurance_provider_id": "1",
+      "insurance_fee_group_id": "213218913"
+    },
+    {
+      "insurance_provider_id": "3",
+      "insurance_fee_group_id": "213259325"
+    }
+  ]
+}

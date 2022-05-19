@@ -1,0 +1,23 @@
+06-01-21 01:42:13,372 76 755  [timerFactory] FATAL java.lang.Class  - processScanPriceHisAndCalculateAlert
+java.lang.NullPointerException
+	at group.fly.MainApplication.processScanPriceHisAndCalculateAlert(MainApplication.java:109)
+	at group.fly.MainApplication.access$0(MainApplication.java:93)
+	at group.fly.MainApplication$1.run(MainApplication.java:84)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+06-01-21 01:44:42,062 76 645  [timerFactory] FATAL java.lang.Class  - processScanPriceHisAndCalculateAlert
+java.lang.IndexOutOfBoundsException: Index: 10, Size: 10
+	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at group.fly.MainApplication.processScanPriceHisAndCalculateAlert(MainApplication.java:108)
+	at group.fly.MainApplication.access$0(MainApplication.java:93)
+	at group.fly.MainApplication$1.run(MainApplication.java:84)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+06-01-21 14:20:46,102 76 2804 [timerFactory] FATAL java.lang.Class  - processScanPriceHisAndCalculateAlert
+java.lang.ClassCastException: group.fly.hibernate.entities.TblPricesHis cannot be cast to group.fly.hibernate.entities.TblBuyStockHis
+	at group.fly.MainApplication.processScanPriceHisAndCalculateAlert(MainApplication.java:110)
+	at group.fly.MainApplication.access$000(MainApplication.java:57)
+	at group.fly.MainApplication$1.run(MainApplication.java:87)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)

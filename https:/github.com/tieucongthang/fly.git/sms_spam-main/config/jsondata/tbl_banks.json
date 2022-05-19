@@ -1,0 +1,348 @@
+{
+  "RECORDS": [
+    {
+      "row_id": "4",
+      "bank_name": "Xây d?ng Vi?t Nam- CBBANK",
+      "bank_code": "970444",
+      "status": "1",
+      "banh_sort_name": "CBBANK",
+      "bank_support_function": "1"
+    },
+    {
+      "row_id": "5",
+      "bank_name": "B?n Vi?t - VIETCAPITALBANK",
+      "bank_code": "970454",
+      "status": "1",
+      "banh_sort_name": "VIETCAPITALBANK",
+      "bank_support_function": "2"
+    },
+    {
+      "row_id": "6",
+      "bank_name": "Vi?t Nam Thuong Tín - VietBank",
+      "bank_code": "970433",
+      "status": "1",
+      "banh_sort_name": "VietBank",
+      "bank_support_function": "3"
+    },
+    {
+      "row_id": "7",
+      "bank_name": "Ngân hàng TNHH MTV United Overseas Bank",
+      "bank_code": "970458",
+      "status": "1",
+      "banh_sort_name": "UnitedOverseasB",
+      "bank_support_function": "1"
+    },
+    {
+      "row_id": "8",
+      "bank_name": "Liên Vi?t posbank",
+      "bank_code": "970449",
+      "status": "1",
+      "banh_sort_name": "Liên Vi?t posba",
+      "bank_support_function": "2"
+    },
+    {
+      "row_id": "9",
+      "bank_name": "PVcombank",
+      "bank_code": "970412",
+      "status": "1",
+      "banh_sort_name": "PVcombank",
+      "bank_support_function": "2"
+    },
+    {
+      "row_id": "10",
+      "bank_name": "B?o Vi?t Bank",
+      "bank_code": "970438",
+      "status": "1",
+      "banh_sort_name": "B?o Vi?t Bank",
+      "bank_support_function": "2"
+    },
+    {
+      "row_id": "11",
+      "bank_name": "Ngân hàng Phuong Ðông Vi?t Nam (OCB)",
+      "bank_code": "970448",
+      "status": "1",
+      "banh_sort_name": "OCB",
+      "bank_support_function": "3"
+    },
+    {
+      "row_id": "12",
+      "bank_name": "Kiên Long Bank",
+      "bank_code": "970452",
+      "status": "1",
+      "banh_sort_name": "Kiên Long Bank",
+      "bank_support_function": "3"
+    },
+    {
+      "row_id": "13",
+      "bank_name": "Ngân hàng Qu?c dân (NCB)",
+      "bank_code": "970419",
+      "status": "1",
+      "banh_sort_name": "NCB",
+      "bank_support_function": "3"
+    },
+    {
+      "row_id": "14",
+      "bank_name": "Ngân hàng liên doanh Vi?t Nga (VRB)",
+      "bank_code": "970421",
+      "status": "1",
+      "banh_sort_name": "VRB",
+      "bank_support_function": "3"
+    },
+    {
+      "row_id": "15",
+      "bank_name": "NH TNHH MTV Public Vietnam",
+      "bank_code": "970439",
+      "status": "1",
+      "banh_sort_name": "TNHHMTVPublicVi",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "16",
+      "bank_name": "Ngân hàng  TMCP Sài Gòn Công Thương",
+      "bank_code": "970400",
+      "status": "1",
+      "banh_sort_name": "saigoncongthuon",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "17",
+      "bank_name": "Wooribank",
+      "bank_code": "970457",
+      "status": "1",
+      "banh_sort_name": "Worribank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "18",
+      "bank_name": "Ngân hàng nông nghiệp và phát triển nông thôn - Agribank",
+      "bank_code": "970405",
+      "status": "1",
+      "banh_sort_name": "Agribank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "19",
+      "bank_name": "Ngân hàng TMCP Sài Gòn",
+      "bank_code": "970429",
+      "status": "1",
+      "banh_sort_name": "Saigonbank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "20",
+      "bank_name": "Ngân hàng TMCP Xăng dầu Petrolimex - PG Bank",
+      "bank_code": "970430",
+      "status": "1",
+      "banh_sort_name": "PG_Bank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "21",
+      "bank_name": "Ngân hàng TM TNHH MTV Dầu Khí Toàn Cầu - GP Bank",
+      "bank_code": "970408",
+      "status": "1",
+      "banh_sort_name": "GP_Bank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "22",
+      "bank_name": "Ngân hàng TMCP sài gòn thương tín  - Sacombank",
+      "bank_code": "970403",
+      "status": "1",
+      "banh_sort_name": "Sacombank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "23",
+      "bank_name": "Nam Á Bank",
+      "bank_code": "970428",
+      "status": "1",
+      "banh_sort_name": "Nam_A_Bank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "24",
+      "bank_name": "Ngân hàng thương mại cổ phần Đông Á - Đông Á Bank",
+      "bank_code": "970406",
+      "status": "1",
+      "banh_sort_name": "Dong_A_bank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "25",
+      "bank_name": "Ngân hàng TMCP Công thương Việt Nam - Vietinbank",
+      "bank_code": "970415",
+      "status": "1",
+      "banh_sort_name": "Vietinbank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "26",
+      "bank_name": "Ngân hàng TMCP Kỹ thương Việt Nam - Techcombank",
+      "bank_code": "970407",
+      "status": "1",
+      "banh_sort_name": "Techcombank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "27",
+      "bank_name": "Ngân hàng quốc tế - VIB",
+      "bank_code": "970441",
+      "status": "1",
+      "banh_sort_name": "VIB",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "28",
+      "bank_name": "Ngân hàng TMCP phát triển Tp Hồ Chí Minh -HDBank",
+      "bank_code": "970437",
+      "status": "1",
+      "banh_sort_name": "HDBank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "29",
+      "bank_name": "Ngân hàng TMCP Xuất Nhập Khẩu Việt Nam - Eximbank",
+      "bank_code": "970431",
+      "status": "1",
+      "banh_sort_name": "Eximbank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "30",
+      "bank_name": "Ngân hàng tiên phong - TPBANK",
+      "bank_code": "970423",
+      "status": "1",
+      "banh_sort_name": "TienphongBank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "31",
+      "bank_name": "Ngân hàng TMCP Hàng hải Việt Nam - Maritime Bank",
+      "bank_code": "970426",
+      "status": "1",
+      "banh_sort_name": "Maritime_Bank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "32",
+      "bank_name": "Ngân hàng Đầu tư và phát triển Việt Nam -  BIDV",
+      "bank_code": "970418",
+      "status": "1",
+      "banh_sort_name": "BIDV",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "33",
+      "bank_name": "Ngân hàng quân đội - MB Bank",
+      "bank_code": "970422",
+      "status": "1",
+      "banh_sort_name": "MB",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "34",
+      "bank_name": "Ngân hàng TNHH Indovina",
+      "bank_code": "970434",
+      "status": "1",
+      "banh_sort_name": "IndovinaBank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "35",
+      "bank_name": "Ngân hàng TMCP Sài Gòn - SHB",
+      "bank_code": "970443",
+      "status": "1",
+      "banh_sort_name": "SHB",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "36",
+      "bank_name": "Việt Á Bank",
+      "bank_code": "970427",
+      "status": "1",
+      "banh_sort_name": "Viet_A_Bank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "37",
+      "bank_name": "Ngân hàng đại dương - OceanBank",
+      "bank_code": "970414",
+      "status": "1",
+      "banh_sort_name": "OceanBank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "38",
+      "bank_name": "Ngân hàng thương mại cổ phần Ngoại thương Việt Nam - Vietcombank",
+      "bank_code": "970436",
+      "status": "1",
+      "banh_sort_name": "Vietcombank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "39",
+      "bank_name": "Ngân hàng việt nam thịnh vượng - VPBANK",
+      "bank_code": "970432",
+      "status": "1",
+      "banh_sort_name": "VP_Bank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "40",
+      "bank_name": "Ngân hàng Á Châu - ACB",
+      "bank_code": "970416",
+      "status": "1",
+      "banh_sort_name": "ACB",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "41",
+      "bank_name": "NaviBank",
+      "bank_code": "",
+      "status": "1",
+      "banh_sort_name": "NaviBank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "42",
+      "bank_name": "Bắc Á",
+      "bank_code": "970409",
+      "status": "1",
+      "banh_sort_name": "Bac_A",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "43",
+      "bank_name": "AnBinhBank",
+      "bank_code": "970425",
+      "status": "1",
+      "banh_sort_name": "AnBinhBank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "44",
+      "bank_name": "Dai a bank",
+      "bank_code": "",
+      "status": "1",
+      "banh_sort_name": "Dai_a_bank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "45",
+      "bank_name": "Ngân hàng TNHH MTV Shinhan Việt Nam",
+      "bank_code": "970424",
+      "status": "1",
+      "banh_sort_name": "ShinhanBank",
+      "bank_support_function": ""
+    },
+    {
+      "row_id": "46",
+      "bank_name": "Đông Nam Á - SEABANK",
+      "bank_code": "970440",
+      "status": "1",
+      "banh_sort_name": "SEABANK",
+      "bank_support_function": ""
+    }
+  ]
+}

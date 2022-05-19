@@ -1,0 +1,353 @@
+06-01-21 00:20:35,717 66 1    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:20:35,723 54 7    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:20:35,724 239 8    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:20:35,726 346 10   [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:20:35,833 145 117  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:20:35,898 62 182  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:20:35,902 47 186  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:21:26,999 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:21:27,004 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:21:27,005 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:21:27,006 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:21:27,109 145 110  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:21:27,174 62 175  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:21:27,177 47 178  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:21:27,366 145 367  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:21:27,369 62 370  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:21:27,369 47 370  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:26:24,385 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:26:24,389 54 4    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:26:24,390 239 5    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:26:24,391 346 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:26:24,474 145 89   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:26:24,531 62 146  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:26:24,534 47 149  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:26:24,716 145 331  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:26:24,719 62 334  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:26:24,719 47 334  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:27:48,122 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:27:48,127 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:27:48,128 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:27:48,129 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:27:48,215 145 93   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:27:48,272 62 150  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:27:48,275 47 153  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:27:48,455 145 333  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:27:48,457 62 335  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:27:48,457 47 335  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:30:40,515 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:30:40,520 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:30:40,521 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:30:40,522 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:30:40,602 145 87   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:30:40,660 62 145  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:30:40,663 47 148  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:31:04,238 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:31:04,243 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:31:04,244 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:31:04,245 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:31:04,326 145 88   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:31:04,385 62 147  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:31:04,387 47 149  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:31:04,570 145 332  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:31:04,573 62 335  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:31:04,573 47 335  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:32:34,292 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:32:34,297 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:32:34,298 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:32:34,299 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:32:34,378 145 86   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:32:34,436 62 144  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:32:34,439 47 147  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:32:34,625 145 333  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:32:34,627 62 335  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:32:34,627 47 335  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:38:32,313 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:38:32,318 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:38:32,319 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:38:32,320 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:38:32,403 145 90   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:38:32,463 62 150  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:38:32,465 47 152  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:38:32,646 145 333  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:38:32,648 62 335  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:38:32,649 47 336  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:41:04,626 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:41:04,630 54 4    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:41:04,631 239 5    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:41:04,632 346 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:41:04,717 145 91   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:41:04,775 62 149  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:41:04,778 47 152  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:41:04,957 145 331  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:41:04,960 62 334  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:41:04,960 47 334  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:41:48,278 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:41:48,283 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:41:48,284 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:41:48,285 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:41:48,371 145 93   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:41:48,433 62 155  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:41:48,436 47 158  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:41:48,620 145 342  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:41:48,623 62 345  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:41:48,623 47 345  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:42:25,190 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:42:25,194 54 4    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:42:25,195 239 5    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:42:25,196 346 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:42:25,282 145 92   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:42:25,341 62 151  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:42:25,344 47 154  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:42:25,523 145 333  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:42:25,525 62 335  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:42:25,526 47 336  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:47:02,056 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:47:02,061 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:47:02,062 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:47:02,063 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:47:02,145 145 89   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:47:02,203 62 147  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:47:02,205 47 149  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:47:02,386 145 330  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:47:02,388 62 332  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:47:02,389 47 333  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:49:15,400 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:49:15,406 54 6    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:49:15,407 239 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:49:15,409 346 9    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:49:15,512 145 112  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:49:15,567 62 167  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:49:15,570 47 170  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:49:15,751 145 351  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:49:15,753 62 353  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:49:15,753 47 353  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:49:55,781 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:49:55,788 54 7    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:49:55,789 239 8    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:49:55,790 346 9    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:49:55,884 145 103  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:49:55,945 62 164  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:49:55,947 47 166  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:49:56,128 145 347  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:49:56,129 62 348  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:49:56,130 47 349  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:56:40,086 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:56:40,091 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:56:40,092 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:56:40,093 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:56:40,174 145 88   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:56:40,237 62 151  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:56:40,240 47 154  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:56:40,420 145 334  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:56:40,422 62 336  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:56:40,423 47 337  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:56:57,245 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 00:56:57,250 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 00:56:57,251 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 00:56:57,251 346 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 00:56:57,334 145 89   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:56:57,391 62 146  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:56:57,393 47 148  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 00:56:57,578 145 333  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 00:56:57,579 62 334  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 00:56:57,580 47 335  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:01:13,636 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:01:13,641 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:01:13,642 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:01:13,643 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:01:13,726 145 90   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:01:13,783 62 147  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:01:13,785 47 149  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:01:13,962 145 326  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:01:13,964 62 328  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:01:13,965 47 329  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:07:31,138 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:07:31,144 54 6    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:07:31,145 239 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:07:31,145 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:07:31,230 145 92   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:07:31,290 62 152  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:07:31,294 47 156  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:07:31,471 145 333  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:07:31,473 62 335  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:07:31,474 47 336  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:08:55,964 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:08:55,968 54 4    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:08:55,969 239 5    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:08:55,970 346 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:08:56,051 145 87   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:08:56,108 62 144  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:08:56,111 47 147  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:08:56,294 145 330  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:08:56,297 62 333  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:08:56,297 47 333  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:11:39,171 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:11:39,176 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:11:39,177 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:11:39,178 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:11:39,265 145 94   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:11:39,321 62 150  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:11:39,324 47 153  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:11:39,506 145 335  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:11:39,508 62 337  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:11:39,508 47 337  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:13:37,956 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:13:37,961 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:13:37,962 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:13:37,963 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:13:38,046 145 90   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:13:38,107 62 151  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:13:38,110 47 154  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:13:38,308 145 352  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:13:38,311 62 355  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:13:38,311 47 355  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:15:24,717 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:15:24,727 54 10   [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:15:24,729 239 12   [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:15:24,731 346 14   [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:15:24,911 145 194  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:15:24,958 62 241  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:15:24,963 47 246  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:15:25,203 145 486  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:15:25,207 62 490  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:15:25,208 47 491  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:17:15,135 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:17:15,140 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:17:15,141 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:17:15,141 346 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:17:15,223 145 88   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:17:15,282 62 147  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:17:15,284 47 149  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:17:15,461 145 326  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:17:15,464 62 329  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:17:15,465 47 330  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:18:04,363 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:18:04,368 54 5    [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:18:04,369 239 6    [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:18:04,370 346 7    [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:18:04,453 145 90   [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:18:04,510 62 147  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:18:04,513 47 150  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:18:04,692 145 329  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:18:04,694 62 331  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:18:04,695 47 332  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:19:18,061 66 0    [main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:19:18,071 54 10   [main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:19:18,073 239 12   [main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:19:18,074 346 13   [main] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:19:18,260 145 199  [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:19:18,317 62 256  [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:19:18,322 47 261  [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:19:27,502 145 9441 [main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:19:27,783 62 9722 [main] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:19:27,792 47 9731 [main] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:36:53,298 66 0    [timerFactory] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:36:53,303 54 5    [timerFactory] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:36:53,304 239 6    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:36:53,305 346 7    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:36:53,397 145 99   [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:36:53,457 62 159  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:36:53,459 47 161  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:36:53,639 145 341  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:36:53,642 62 344  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:36:53,642 47 344  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:39:34,464 66 0    [timerFactory] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:39:34,469 54 5    [timerFactory] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:39:34,470 239 6    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:39:34,471 346 7    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:39:34,558 145 94   [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:39:34,617 62 153  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:39:34,620 47 156  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:39:34,797 145 333  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:39:34,800 62 336  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:39:34,800 47 336  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:42:12,617 66 0    [timerFactory] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:42:12,622 54 5    [timerFactory] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:42:12,623 239 6    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:42:12,625 346 8    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:42:12,783 145 166  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:42:12,872 62 255  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:42:12,875 47 258  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:42:13,155 145 538  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:42:13,160 62 543  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:42:13,160 47 543  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:42:13,372 76 755  [timerFactory] FATAL java.lang.Class  - processScanPriceHisAndCalculateAlert
+java.lang.NullPointerException
+	at group.fly.MainApplication.processScanPriceHisAndCalculateAlert(MainApplication.java:109)
+	at group.fly.MainApplication.access$0(MainApplication.java:93)
+	at group.fly.MainApplication$1.run(MainApplication.java:84)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+06-01-21 01:44:41,417 66 0    [timerFactory] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:44:41,422 54 5    [timerFactory] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:44:41,423 239 6    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:44:41,424 346 7    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:44:41,566 145 149  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:44:41,633 62 216  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:44:41,636 47 219  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:44:41,902 145 485  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:44:41,908 62 491  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:44:41,908 47 491  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:44:42,062 76 645  [timerFactory] FATAL java.lang.Class  - processScanPriceHisAndCalculateAlert
+java.lang.IndexOutOfBoundsException: Index: 10, Size: 10
+	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
+	at java.util.ArrayList.get(ArrayList.java:435)
+	at group.fly.MainApplication.processScanPriceHisAndCalculateAlert(MainApplication.java:108)
+	at group.fly.MainApplication.access$0(MainApplication.java:93)
+	at group.fly.MainApplication$1.run(MainApplication.java:84)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+06-01-21 01:47:00,067 66 0    [timerFactory] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:47:00,071 54 4    [timerFactory] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:47:00,073 239 6    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:47:00,075 346 8    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:47:00,270 145 203  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:47:00,353 62 286  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:47:00,356 47 289  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:47:00,652 145 585  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:47:00,658 62 591  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:47:00,658 47 591  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:49:05,158 66 0    [timerFactory] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 01:49:05,163 54 5    [timerFactory] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 01:49:05,164 239 6    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 01:49:05,165 346 7    [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 01:49:05,297 145 139  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:49:05,369 62 211  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:49:05,372 47 214  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 01:49:05,631 145 473  [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 01:49:05,636 62 478  [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 01:49:05,637 47 479  [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 14:20:43,298 28 0    [main] INFO  java.lang.Class  - start tien trinh quet database
+06-01-21 14:20:44,305 28 1007 [timerFactory] INFO  java.lang.Class  - start calculate.........
+06-01-21 14:20:45,337 66 2039 [timerFactory] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 14:20:45,340 54 2042 [timerFactory] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 14:20:45,341 239 2043 [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 14:20:45,342 346 2044 [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 14:20:45,480 145 2182 [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 14:20:45,549 62 2251 [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 14:20:45,552 47 2254 [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 14:20:45,836 145 2538 [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 14:20:45,843 62 2545 [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 14:20:45,843 47 2545 [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 14:20:46,102 76 2804 [timerFactory] FATAL java.lang.Class  - processScanPriceHisAndCalculateAlert
+java.lang.ClassCastException: group.fly.hibernate.entities.TblPricesHis cannot be cast to group.fly.hibernate.entities.TblBuyStockHis
+	at group.fly.MainApplication.processScanPriceHisAndCalculateAlert(MainApplication.java:110)
+	at group.fly.MainApplication.access$000(MainApplication.java:57)
+	at group.fly.MainApplication$1.run(MainApplication.java:87)
+	at java.util.TimerThread.mainLoop(Timer.java:555)
+	at java.util.TimerThread.run(Timer.java:505)
+06-01-21 14:20:47,645 28 4347 [timerFactory] INFO  java.lang.Class  - end calculate.........
+06-01-21 14:21:17,408 28 0    [main] INFO  java.lang.Class  - start tien trinh quet database
+06-01-21 14:21:18,411 28 1003 [timerFactory] INFO  java.lang.Class  - start calculate.........
+06-01-21 14:21:19,282 66 1874 [timerFactory] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+06-01-21 14:21:19,286 54 1878 [timerFactory] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {4.3.7.Final}
+06-01-21 14:21:19,286 239 1878 [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+06-01-21 14:21:19,288 346 1880 [timerFactory] INFO  org.hibernate.cfg.Environment  - HHH000021: Bytecode provider name : javassist
+06-01-21 14:21:19,420 145 2012 [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 14:21:19,489 62 2081 [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 14:21:19,492 47 2084 [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 14:21:19,759 145 2351 [timerFactory] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+06-01-21 14:21:19,765 62 2357 [timerFactory] INFO  org.hibernate.engine.transaction.internal.TransactionFactoryInitiator  - HHH000399: Using default transaction strategy (direct JDBC transactions)
+06-01-21 14:21:19,765 47 2357 [timerFactory] INFO  org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory  - HHH000397: Using ASTQueryTranslatorFactory
+06-01-21 14:21:22,445 28 5037 [timerFactory] INFO  java.lang.Class  - end calculate.........

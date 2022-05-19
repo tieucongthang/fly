@@ -1,0 +1,132 @@
+13-07-21 13:40:00,966 28 1    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/"><Body><signInAsPartner xmlns="http://interfaces.itopup.vnptepay.vn"><username>GOJEK_API</username><password>44579130607852</password></signInAsPartner></Body></Envelope>
+13-07-21 13:40:00,970 28 5    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:signInAsPartnerResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><signInAsPartnerReturn href="#id0"/></ns1:signInAsPartnerResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:SignInResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><errorCode xsi:type="xsd:int">0</errorCode><errorMessage xsi:type="xsd:string">Signin successfully</errorMessage><token xsi:type="xsd:string">41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 13:41:04,574 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVTT</providerCode>
+            <targetAccount>0905085774</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626158464412</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 13:41:04,577 28 3    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">0</epayTransID><errorCode xsi:type="xsd:int">-8</errorCode><errorMessage xsi:type="xsd:string">Merchant topup a telephone number or amount level which are not in template</errorMessage><merchantBalance xsi:type="xsd:long">0</merchantBalance><merchantID xsi:type="xsd:int">0</merchantID></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 13:41:34,830 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVMS</providerCode>
+            <targetAccount>0905085774</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626158485879</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 13:41:34,832 28 2    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23469651</epayTransID><errorCode xsi:type="xsd:int">0</errorCode><errorMessage xsi:type="xsd:string">success</errorMessage><merchantBalance xsi:type="xsd:long">197829340</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 13:42:15,706 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVMS</providerCode>
+            <targetAccount>0933778866</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626158529270</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 13:42:15,708 28 2    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23469667</epayTransID><errorCode xsi:type="xsd:int">0</errorCode><errorMessage xsi:type="xsd:string">success</errorMessage><merchantBalance xsi:type="xsd:long">197762140</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 13:42:46,213 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVMS</providerCode>
+            <targetAccount>0906709731</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626158563217</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 13:42:46,215 28 2    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23469685</epayTransID><errorCode xsi:type="xsd:int">-6</errorCode><errorMessage xsi:type="xsd:string">Phone number or game account is invalid.</errorMessage><merchantBalance xsi:type="xsd:long">197762140</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 13:43:29,092 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVMS</providerCode>
+            <targetAccount>0934665534</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626158604072</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 13:43:29,094 28 2    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23469716</epayTransID><errorCode xsi:type="xsd:int">-6</errorCode><errorMessage xsi:type="xsd:string">Phone number or game account is invalid.</errorMessage><merchantBalance xsi:type="xsd:long">197762140</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 13:44:06,431 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVMS</providerCode>
+            <targetAccount>0938594426</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626158637328</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 13:44:06,434 28 3    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23469734</epayTransID><errorCode xsi:type="xsd:int">0</errorCode><errorMessage xsi:type="xsd:string">success</errorMessage><merchantBalance xsi:type="xsd:long">197694940</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 13:44:43,092 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVMS</providerCode>
+            <targetAccount>0909551885</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626158676739</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 13:44:43,094 28 2    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23469753</epayTransID><errorCode xsi:type="xsd:int">0</errorCode><errorMessage xsi:type="xsd:string">success</errorMessage><merchantBalance xsi:type="xsd:long">197627740</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 13:45:30,399 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVMS</providerCode>
+            <targetAccount>0938568056</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626158719588</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 13:45:30,401 28 2    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23469776</epayTransID><errorCode xsi:type="xsd:int">0</errorCode><errorMessage xsi:type="xsd:string">success</errorMessage><merchantBalance xsi:type="xsd:long">197560540</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 13:46:55,137 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVTT</providerCode>
+            <targetAccount>0373385690</targetAccount>
+            <amount>90000</amount>
+            <requestID>GOJEK_API_1626158813692</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 13:46:55,140 28 3    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23469836</epayTransID><errorCode xsi:type="xsd:int">0</errorCode><errorMessage xsi:type="xsd:string">success</errorMessage><merchantBalance xsi:type="xsd:long">197488540</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>
+13-07-21 17:05:41,300 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVMS</providerCode>
+            <targetAccount>0934665534</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626170730907</requestID>
+            <token>41d661521e8e618c57c78961222d41cf35d8e2e48167e8ce</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+13-07-21 17:05:41,302 28 2    [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">23479076</epayTransID><errorCode xsi:type="xsd:int">0</errorCode><errorMessage xsi:type="xsd:string">success</errorMessage><merchantBalance xsi:type="xsd:long">183076820</merchantBalance><merchantID xsi:type="xsd:int">252</merchantID></multiRef></soapenv:Body></soapenv:Envelope>

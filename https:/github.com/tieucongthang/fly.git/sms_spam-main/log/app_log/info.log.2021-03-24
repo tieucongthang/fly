@@ -1,0 +1,43 @@
+24-03-21 13:44:26,267 28 0    [main] INFO  java.lang.Class  - start tien trinh quet database
+24-03-21 13:44:27,271 28 1004 [timerFactory] INFO  java.lang.Class  - start calculate.........
+24-03-21 13:49:26,488 76 0    [main] FATAL java.lang.Class  - loi khi innit driver ket thuc xu ly
+org.openqa.selenium.WebDriverException: Process unexpectedly closed with status 0
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-94EV25N', ip: '192.168.100.89', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:126)
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:499)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:486)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+	at java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:152)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:464)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:147)
+	at group.fly.MainApplication.innitDriver(MainApplication.java:316)
+	at group.fly.MainApplication.siteScripRemitano(MainApplication.java:331)
+	at group.fly.MainApplication.main(MainApplication.java:92)
+24-03-21 13:49:26,493 28 5    [main] INFO  java.lang.Class  - start tien trinh quet database
+24-03-21 13:49:27,493 28 1005 [timerFactory] INFO  java.lang.Class  - start calculate.........
+24-03-21 13:50:16,062 28 0    [main] INFO  java.lang.Class  - start tien trinh quet database
+24-03-21 13:50:17,064 28 1002 [timerFactory] INFO  java.lang.Class  - start calculate.........
+24-03-21 14:15:03,902 28 0    [main] INFO  java.lang.Class  - start tien trinh quet database
+24-03-21 14:15:04,912 28 1010 [timerFactory] INFO  java.lang.Class  - start calculate.........
+24-03-21 14:18:13,660 28 0    [main] INFO  java.lang.Class  - start tien trinh quet database
+24-03-21 14:18:14,663 28 1003 [timerFactory] INFO  java.lang.Class  - start calculate.........

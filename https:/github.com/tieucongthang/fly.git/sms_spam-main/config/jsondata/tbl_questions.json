@@ -1,0 +1,59 @@
+{
+  "RECORDS": [
+    {
+      "question_id": "5",
+      "question_content": "Gia dình b?n có m?y ngu?i",
+      "question_short_desc": "Gia dình b?n có m?y ngu?i",
+      "question_type": "1",
+      "step_of_process": "1",
+      "correct_answears": "[\"dap an 1\"]",
+      "require_answear": "1",
+      "active_status": "1",
+      "available_answear": "[\"dap an 1\", \"dap an 2\", \"dap an 3\"]"
+    },
+    {
+      "question_id": "7",
+      "question_content": "B?n bao nhiêu tu?i",
+      "question_short_desc": "",
+      "question_type": "0",
+      "step_of_process": "2",
+      "correct_answears": "[\"Trên 18\",\"Trên 30\"]",
+      "require_answear": "1",
+      "active_status": "1",
+      "available_answear": "[\"dap an 1\", \"dap an 2\", \"dap an 3\"]"
+    },
+    {
+      "question_id": "8",
+      "question_content": "B?n làm ngh? gì",
+      "question_short_desc": "",
+      "question_type": "0",
+      "step_of_process": "2",
+      "correct_answears": "[\"dap an 4\"]",
+      "require_answear": "2",
+      "active_status": "1",
+      "available_answear": "[\"dap an 1\", \"dap an 2\", \"dap an 3\"]"
+    },
+    {
+      "question_id": "9",
+      "question_content": "Nhà b?n ? dâu",
+      "question_short_desc": "",
+      "question_type": "1",
+      "step_of_process": "1",
+      "correct_answears": "[\"dap an 2\"]",
+      "require_answear": "2",
+      "active_status": "1",
+      "available_answear": "[\"dap an 1\", \"dap an 2\", \"dap an 3\"]"
+    },
+    {
+      "question_id": "10",
+      "question_content": "B?n k?t hôn chua",
+      "question_short_desc": "",
+      "question_type": "1",
+      "step_of_process": "1",
+      "correct_answears": "[\"dap an 3\"]",
+      "require_answear": "2",
+      "active_status": "1",
+      "available_answear": "[\"dap an 1\", \"dap an 2\", \"dap an 3\"]"
+    }
+  ]
+}

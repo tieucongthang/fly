@@ -1,0 +1,18 @@
+{
+  "RECORDS": [
+    {
+      "config_id": "1",
+      "config_name": "Thẩm định lần 1",
+      "config_value": "80",
+      "status": "1",
+      "config_type": ""
+    },
+    {
+      "config_id": "2",
+      "config_name": "Thẩm định lần 2",
+      "config_value": "70",
+      "status": "1",
+      "config_type": ""
+    }
+  ]
+}

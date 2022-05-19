@@ -1,0 +1,10 @@
+25-12-20 14:02:20,005 28 0    [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+25-12-20 14:02:20,013 28 8    [timerFactory] INFO  java.lang.Class  - current=Fri Dec 25 14:02:20 ICT 2020
+25-12-20 14:02:50,004 28 29999 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+25-12-20 14:02:50,004 28 29999 [timerFactory] INFO  java.lang.Class  - current=Fri Dec 25 14:02:50 ICT 2020
+25-12-20 14:03:20,004 28 59999 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+25-12-20 14:03:20,004 28 59999 [timerFactory] INFO  java.lang.Class  - current=Fri Dec 25 14:03:20 ICT 2020
+25-12-20 14:03:50,005 28 90000 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+25-12-20 14:03:50,005 28 90000 [timerFactory] INFO  java.lang.Class  - current=Fri Dec 25 14:03:50 ICT 2020
+25-12-20 14:04:20,005 28 120000 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+25-12-20 14:04:20,005 28 120000 [timerFactory] INFO  java.lang.Class  - current=Fri Dec 25 14:04:20 ICT 2020

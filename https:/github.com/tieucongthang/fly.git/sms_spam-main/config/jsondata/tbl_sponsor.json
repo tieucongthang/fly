@@ -1,0 +1,28 @@
+{
+  "RECORDS": [
+    {
+      "sponsor_id": "10",
+      "sponsor_name": "Nguyen Van The",
+      "sponsor_mobile": "0911111111",
+      "sponsor_status": "1",
+      "deactive_date": "16/5/2021 14:15:08",
+      "description": "",
+      "created_date": "16/5/2021 00:24:10",
+      "sponsor_mobile_2": "092111111",
+      "sponsor_address": "Khong co",
+      "sponsor_email": "nguyenvan.the@gmail.com",
+      "sponsor_id_number": "013333333",
+      "sponsor_id_issued_by": "Hanoi",
+      "sponsor_id_issued_date": "7/12/1900",
+      "sponsor_account_id": "0",
+      "sponsor_province_name": "24",
+      "sponsor_bank_account": "",
+      "sponsor_bank_name": "",
+      "sponsor_bank_branch": "",
+      "sponsor_investment_commitment": "100000000",
+      "sponsor_type": "2",
+      "sponsor_investment_type": "1",
+      "sponsor_code": "NDT0001"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+15-07-21 22:39:12,018 28 0    [main] INFO  java.lang.Class  - SOAP XML=<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <partnerDirectTopupGame xmlns="http://interfaces.itopup.vnptepay.vn">
+            <username>GOJEK_API</username>
+ 			<providerCode>DataVMS</providerCode>
+            <targetAccount>0938004451</targetAccount>
+            <amount>84000</amount>
+            <requestID>GOJEK_API_1626363551859</requestID>
+            <token>f47462c319561227554348cd1911d6442fdab1ee72fefb3a</token>
+        </partnerDirectTopupGame>
+    </Body>
+</Envelope>
+15-07-21 22:39:12,034 28 16   [main] INFO  java.lang.Class  - CHARGE RESPONSE FROM PROVIDER=<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><ns1:partnerDirectTopupGameResponse soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1="http://interfaces.itopup.vnptepay.vn"><partnerDirectTopupGameReturn href="#id0"/></ns1:partnerDirectTopupGameResponse><multiRef id="id0" soapenc:root="0" soapenv:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xsi:type="ns2:DirectResult" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns2="http://interfaces.itopup.vnptepay.vn"><epayTransID xsi:type="xsd:int">0</epayTransID><errorCode xsi:type="xsd:int">-1</errorCode><errorMessage xsi:type="xsd:string">Token is not existed.</errorMessage><merchantBalance xsi:type="xsd:long">0</merchantBalance><merchantID xsi:type="xsd:int">0</merchantID></multiRef></soapenv:Body></soapenv:Envelope>

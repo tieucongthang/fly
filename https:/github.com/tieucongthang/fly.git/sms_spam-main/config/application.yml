@@ -1,0 +1,20 @@
+app.spring:
+    profiles: prod
+app.name: prod-YAML
+app.environment: test
+app.servers: 
+    - www.abc.com
+    - www.xyz.com
+app.listen_port: 8084
+app.server.tomcat.max-threads: 300
+app.time_to_reload: 10000
+app.datasource.driver-class-name: oracle.jdbc.OracleDriver
+app.schedule: 
+app.whitelist_ip: 
+    - 127.0.0.1
+    - www.xyz.com
+    - 0:0:0:0:0:0:0:1
+    - 192.168.0.112
+    - 192.168.0.104
+    - 103.68.241.68
+    - 0.0.0.0

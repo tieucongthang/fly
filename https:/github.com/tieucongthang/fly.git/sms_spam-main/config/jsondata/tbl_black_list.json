@@ -1,0 +1,28 @@
+{
+  "RECORDS": [
+    {
+      "black_list_id": "11",
+      "borrower_id": "10",
+      "escape_date": "16/5/2021 10:37:56",
+      "entry_status": "",
+      "join_date": "16/5/2021 10:37:56",
+      "group_debt_id": "1",
+      "effective_date_from": "16/5/2021",
+      "effective_date_to": "16/6/2021",
+      "borrower_name": "Nguyễn Văn A",
+      "borrower_id_number": "123123123"
+    },
+    {
+      "black_list_id": "12",
+      "borrower_id": "12",
+      "escape_date": "16/5/2021 14:16:03",
+      "entry_status": "",
+      "join_date": "16/5/2021 14:16:03",
+      "group_debt_id": "2",
+      "effective_date_from": "16/5/2021",
+      "effective_date_to": "31/5/2021",
+      "borrower_name": "Nguyễn Văn Thể",
+      "borrower_id_number": "013078235"
+    }
+  ]
+}

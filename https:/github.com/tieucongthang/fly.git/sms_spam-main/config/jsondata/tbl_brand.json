@@ -1,0 +1,46 @@
+{
+  "RECORDS": [
+    {
+      "brand_id": "10",
+      "branch_name": "HonDa",
+      "branch_code": "HONDA",
+      "created_date": "16/5/2021 17:05:29"
+    },
+    {
+      "brand_id": "11",
+      "branch_name": "YAMAHA",
+      "branch_code": "YAMAHA",
+      "created_date": "16/5/2021 17:05:47"
+    },
+    {
+      "brand_id": "12",
+      "branch_name": "PIAGGIO",
+      "branch_code": "PIAGGIO",
+      "created_date": "16/5/2021 17:05:50"
+    },
+    {
+      "brand_id": "13",
+      "branch_name": "SUZUKI",
+      "branch_code": "SUZUKI",
+      "created_date": "16/5/2021 17:05:54"
+    },
+    {
+      "brand_id": "14",
+      "branch_name": "SYM",
+      "branch_code": "SYM",
+      "created_date": "16/5/2021 17:05:58"
+    },
+    {
+      "brand_id": "15",
+      "branch_name": "BENELLI",
+      "branch_code": "BENELLI",
+      "created_date": "16/5/2021 17:06:02"
+    },
+    {
+      "brand_id": "16",
+      "branch_name": "KAWASAKI",
+      "branch_code": "KAWASAKI",
+      "created_date": "16/5/2021 17:06:06"
+    }
+  ]
+}

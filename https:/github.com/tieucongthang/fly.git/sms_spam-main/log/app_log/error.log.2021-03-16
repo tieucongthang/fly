@@ -1,0 +1,556 @@
+16-03-21 10:38:15,105 76 79461 [Thread-3] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:243)
+	at group.fly.entities.TestServiceHandle.downloadRequest(TestServiceHandle.java:306)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:263)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:38:15,108 76 79464 [Thread-3] FATAL java.lang.Class  - Co loi khi download
+org.json.JSONException: JSONObject["soapenv:Envelope"] not found.
+	at org.json.JSONObject.get(JSONObject.java:566)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:778)
+	at group.fly.entities.TestServiceHandle.downloadRequest(TestServiceHandle.java:309)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:263)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:131)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:47:44,671 76 275  [Thread-34] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:252)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:112)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:47:44,737 76 341  [Thread-32] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:252)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:112)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:47:44,809 76 413  [Thread-22] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:252)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:112)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:49:46,025 76 477  [Thread-2] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:252)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:112)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:49:47,370 76 1822 [Thread-67] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:252)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:112)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:49:54,020 76 300051 [Thread-38] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:251)
+	at group.fly.entities.TestServiceHandle.downloadRequest(TestServiceHandle.java:314)
+	at group.fly.entities.TestServiceHandle.access$2(TestServiceHandle.java:271)
+	at group.fly.entities.TestServiceHandle$2.run(TestServiceHandle.java:140)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:49:54,022 76 300053 [Thread-38] FATAL java.lang.Class  - Co loi khi download
+org.json.JSONException: JSONObject["soapenv:Envelope"] not found.
+	at org.json.JSONObject.get(JSONObject.java:566)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:778)
+	at group.fly.entities.TestServiceHandle.downloadRequest(TestServiceHandle.java:317)
+	at group.fly.entities.TestServiceHandle.access$2(TestServiceHandle.java:271)
+	at group.fly.entities.TestServiceHandle$2.run(TestServiceHandle.java:140)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:50:06,810 76 21262 [Thread-99] FATAL java.lang.Class  - EXCEPTION,
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:476)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:218)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:200)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:162)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:394)
+	at java.net.Socket.connect(Socket.java:606)
+	at java.net.Socket.connect(Socket.java:555)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:242)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:339)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:357)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1226)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1340)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1315)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:244)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:112)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:52:44,460 76 300064 [Thread-52] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:252)
+	at group.fly.entities.TestServiceHandle.downloadRequest(TestServiceHandle.java:315)
+	at group.fly.entities.TestServiceHandle.access$2(TestServiceHandle.java:272)
+	at group.fly.entities.TestServiceHandle$2.run(TestServiceHandle.java:140)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:52:44,461 76 300065 [Thread-52] FATAL java.lang.Class  - Co loi khi download
+org.json.JSONException: JSONObject["soapenv:Envelope"] not found.
+	at org.json.JSONObject.get(JSONObject.java:566)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:778)
+	at group.fly.entities.TestServiceHandle.downloadRequest(TestServiceHandle.java:318)
+	at group.fly.entities.TestServiceHandle.access$2(TestServiceHandle.java:272)
+	at group.fly.entities.TestServiceHandle$2.run(TestServiceHandle.java:140)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:57:33,622 76 253  [Thread-18] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:255)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:190)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:158)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 10:57:36,379 76 3010 [Thread-3] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:255)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:190)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:158)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:20:11,992 76 7025 [Thread-11] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:20:17,210 76 12243 [Thread-16] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:20:22,366 76 17399 [Thread-1] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:20:23,040 76 18073 [Thread-18] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:20:24,881 76 19914 [Thread-12] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:20:27,088 76 22121 [Thread-8] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:05,017 76 312  [Thread-57] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:09,778 76 5073 [Thread-47] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:16,394 76 11689 [Thread-49] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:17,674 76 12969 [Thread-8] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:19,048 76 14343 [Thread-40] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:22,872 76 18167 [Thread-61] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:24,738 76 20033 [Thread-32] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:25,753 76 21048 [Thread-27] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:26,845 76 22140 [Thread-9] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:23:33,237 76 28532 [Thread-26] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:06,959 76 736  [Thread-55] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:09,043 76 2820 [Thread-56] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:11,590 76 5367 [Thread-53] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:14,133 76 7910 [Thread-27] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:14,907 76 8684 [Thread-22] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:20,909 76 14686 [Thread-39] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:35,523 76 29300 [Thread-66] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:39,946 76 33723 [Thread-4] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:43,062 76 36839 [Thread-52] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:26:45,980 76 39757 [Thread-14] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:27:00,932 76 54709 [Thread-65] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:27:01,008 76 54785 [Thread-26] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:27:04,054 76 57831 [Thread-10] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:27:04,090 76 57867 [Thread-10] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:27:04,264 76 58041 [Thread-68] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:27:06,725 76 60502 [Thread-30] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:27:10,022 76 63799 [Thread-53] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:29:53,184 76 226961 [Thread-11] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:30:59,183 76 292960 [Thread-0] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:33:41,885 76 9011 [Thread-40] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:33:43,758 76 10884 [Thread-11] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:33:44,282 76 11408 [Thread-0] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:33:51,740 76 18866 [Thread-14] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:33:51,876 76 19002 [Thread-56] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:34:00,476 76 27602 [Thread-34] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:34:11,926 76 39052 [Thread-47] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:35:28,759 76 115885 [Thread-50] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:35:46,062 76 133188 [Thread-41] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:35:46,216 76 133342 [Thread-14] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+16-03-21 11:36:03,935 76 151061 [Thread-12] FATAL java.lang.Class  - EXCEPTION,
+java.io.IOException: Server returned HTTP response code: 500 for URL: http://103.68.241.77:8080/ItopupService1.4_IMD/services/TopupInterface
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+	at group.fly.entities.TestServiceHandle.sendSoapRequest(TestServiceHandle.java:254)
+	at group.fly.entities.TestServiceHandle.topupRequest(TestServiceHandle.java:189)
+	at group.fly.entities.TestServiceHandle.access$0(TestServiceHandle.java:157)
+	at group.fly.entities.TestServiceHandle$1.run(TestServiceHandle.java:111)
+	at java.lang.Thread.run(Thread.java:748)

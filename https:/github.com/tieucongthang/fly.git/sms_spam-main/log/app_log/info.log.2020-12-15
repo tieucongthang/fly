@@ -1,0 +1,66 @@
+15-12-20 23:40:38,133 28 0    [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:40:38,141 28 8    [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:40:38 ICT 2020
+15-12-20 23:41:08,133 28 30000 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:41:08,133 28 30000 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:41:08 ICT 2020
+15-12-20 23:41:38,133 28 60000 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:41:38,133 28 60000 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:41:38 ICT 2020
+15-12-20 23:42:08,133 28 90000 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:42:08,133 28 90000 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:42:08 ICT 2020
+15-12-20 23:42:38,133 28 120000 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:42:38,133 28 120000 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:42:38 ICT 2020
+15-12-20 23:43:08,134 28 150001 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:43:08,134 28 150001 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:43:08 ICT 2020
+15-12-20 23:43:38,135 28 180002 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:43:38,135 28 180002 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:43:38 ICT 2020
+15-12-20 23:44:08,135 28 210002 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:44:08,135 28 210002 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:44:08 ICT 2020
+15-12-20 23:44:38,136 28 240003 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:44:38,136 28 240003 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:44:38 ICT 2020
+15-12-20 23:45:08,137 28 270004 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:45:08,137 28 270004 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:45:08 ICT 2020
+15-12-20 23:45:38,137 28 300004 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:45:38,137 28 300004 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:45:38 ICT 2020
+15-12-20 23:46:08,137 28 330004 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:46:08,137 28 330004 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:46:08 ICT 2020
+15-12-20 23:46:38,138 28 360005 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:46:38,138 28 360005 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:46:38 ICT 2020
+15-12-20 23:47:08,138 28 390005 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:47:08,138 28 390005 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:47:08 ICT 2020
+15-12-20 23:47:38,139 28 420006 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:47:38,139 28 420006 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:47:38 ICT 2020
+15-12-20 23:48:08,140 28 450007 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:48:08,140 28 450007 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:48:08 ICT 2020
+15-12-20 23:48:38,140 28 480007 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:48:38,140 28 480007 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:48:38 ICT 2020
+15-12-20 23:49:08,140 28 510007 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:49:08,140 28 510007 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:49:08 ICT 2020
+15-12-20 23:49:38,140 28 540007 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:49:38,140 28 540007 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:49:38 ICT 2020
+15-12-20 23:50:08,141 28 570008 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:50:08,141 28 570008 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:50:08 ICT 2020
+15-12-20 23:50:38,142 28 600009 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:50:38,142 28 600009 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:50:38 ICT 2020
+15-12-20 23:51:08,142 28 630009 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:51:08,142 28 630009 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:51:08 ICT 2020
+15-12-20 23:51:38,143 28 660010 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:51:38,143 28 660010 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:51:38 ICT 2020
+15-12-20 23:52:08,143 28 690010 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:52:08,143 28 690010 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:52:08 ICT 2020
+15-12-20 23:52:38,143 28 720010 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:52:38,143 28 720010 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:52:38 ICT 2020
+15-12-20 23:53:08,143 28 750010 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:53:08,143 28 750010 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:53:08 ICT 2020
+15-12-20 23:53:38,143 28 780010 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:53:38,143 28 780010 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:53:38 ICT 2020
+15-12-20 23:54:08,144 28 810011 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:54:08,144 28 810011 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:54:08 ICT 2020
+15-12-20 23:54:38,144 28 840011 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:54:38,144 28 840011 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:54:38 ICT 2020
+15-12-20 23:55:08,145 28 870012 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:55:08,145 28 870012 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:55:08 ICT 2020
+15-12-20 23:55:38,146 28 900013 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:55:38,146 28 900013 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:55:38 ICT 2020
+15-12-20 23:56:08,146 28 930013 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:56:08,146 28 930013 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:56:08 ICT 2020
+15-12-20 23:56:38,147 28 960014 [timerFactory] INFO  java.lang.Class  - ----------------Start tien trinh xu ly--------------------------
+15-12-20 23:56:38,147 28 960014 [timerFactory] INFO  java.lang.Class  - current=Tue Dec 15 23:56:38 ICT 2020
