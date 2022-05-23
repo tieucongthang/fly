@@ -29,8 +29,8 @@
 
 	<bean id="hikariConfig" class="com.zaxxer.hikari.HikariConfig">
 		<property name="poolName" value="springHikariCP" />
-		<property name="connectionTestQuery"
-			value="select 1 from dual" />
+		<!-- <property name="connectionTestQuery"
+			value="select 1 from dual" /> -->
 		<!-- <property name="dataSourceClassName" value="oracle.jdbc.pool.OracleDataSource" 
 			/> -->
 		<property name="dataSourceClassName"

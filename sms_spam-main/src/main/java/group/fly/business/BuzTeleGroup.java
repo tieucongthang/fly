@@ -13,7 +13,15 @@ import java.util.Date;
 
 import org.json.JSONObject;
 
-public class BuzTeleGroup {
+public class BuzTeleGroup implements Runnable {
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		///super.run();
+		process();
+	}
+
 	static final Logs logs = new Logs(MainApplication.class);
 	public BuzTeleGroup() {
 		super();

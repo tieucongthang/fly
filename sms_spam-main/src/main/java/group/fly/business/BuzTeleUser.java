@@ -16,14 +16,23 @@ import group.fly.hibernate.home.GroupHome;
 import group.fly.hibernate.home.SpamUsersHome;
 import group.fly.utilities.Logs;
 
-public class BuzTeleUser {
+public class BuzTeleUser implements Runnable{
 	static final Logs logs = new Logs(MainApplication.class);
+	RedisCaching redisClient;
+	
 	public BuzTeleUser() {
 		super();
 		this.redisClient = RedisCaching.getInstance();
 	}
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+	//	super.run();
+		process();
+	}
 
-	RedisCaching redisClient;
+	
 
 	public void process() {
 		String jsonUser = "";
